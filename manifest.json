@@ -8,6 +8,8 @@
   },
   "permissions": ["storage"],
   "icons": {
-    
+    "16" : "icons/image.jpg",
+    "48" : "icons/image (1).jpg",
+    "128": "icons/image (2).jpg"
   }
 }
